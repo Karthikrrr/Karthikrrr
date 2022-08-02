@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Karthikrrr
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning advanced Java
-- I can create an website for low costs
+<!--- I can create an website for low costs--->
 - 📫 How to reach me @ karthikrkarthi6@gmail.com
 
 <!---
