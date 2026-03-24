@@ -7,6 +7,7 @@
 <h1 align="center">Hello, I am Karthik R 👋</h1>
 
 ###
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=karthikrrr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
@@ -54,10 +55,18 @@
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  <a href="https://www.linkedin.com/in/karthik-rrr/" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  </a>
+  <a href="https://weblancersworkspace.slack.com/team/U088AJQ2U1X" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/slack/default.svg" width="52" height="40" alt="slack logo"  />
+  </a>
+  <a href="https://web.telegram.org/k/@karthikrsharma" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="52" height="40" alt="telegram logo"  />
+  </a>
+  <a href="https://wa.me/8088189681?text=I%20Am%20Excited%20To%20Work%20With%20You!!" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+  </a>
 </div>
 
 ###
@@ -66,8 +75,6 @@
   <img src="https://visitor-badge.laobi.icu/badge?page_id=karthikrrr.karthikrrr&left_color=aquamarine"  />
 </div>
 
-### 
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 ###
 
